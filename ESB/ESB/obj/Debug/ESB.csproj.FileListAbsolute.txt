@@ -1,0 +1,7 @@
+D:\Tareas\SA\LAB\practica3\ESB\ESB\obj\Debug\ESB.csprojAssemblyReference.cache
+D:\Tareas\SA\LAB\practica3\ESB\ESB\obj\Debug\ESB.csproj.CoreCompileInputs.cache
+D:\Tareas\SA\LAB\practica3\ESB\ESB\bin\ESB.dll.config
+D:\Tareas\SA\LAB\practica3\ESB\ESB\bin\ESB.dll
+D:\Tareas\SA\LAB\practica3\ESB\ESB\bin\ESB.pdb
+D:\Tareas\SA\LAB\practica3\ESB\ESB\obj\Debug\ESB.dll
+D:\Tareas\SA\LAB\practica3\ESB\ESB\obj\Debug\ESB.pdb
